@@ -145,7 +145,7 @@ commands should be no slower. It is also not an alternative to the initial
 
 Run `vagrant ssh` from your terminal. This is the command you will use every
 time you want to access the VM. If it works, your terminal prompt will change
-to `vagrant@cos461:~$`. All further commands will execute on the VM. You can
+to `vagrant@ut2025:~$`. All further commands will execute on the VM. You can
 then run `cd /vagrant` to get to the course directory that's shared between
 your regular OS and the VM.
 
