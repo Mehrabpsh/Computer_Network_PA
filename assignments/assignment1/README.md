@@ -110,7 +110,7 @@ download the course files from GitHub.
 `cd Computer_Network_PA/assignments` to enter the course assignment directory.
 
 go to the link and download the box file : https://portal.cloud.hashicorp.com/vagrant/discover/ubuntu/trusty64.
-after you download it, run the command `vagrant box add My-Downloaded-Box name-of-your-"downloaded-box"`. replace "downloaded-box" with the name of the downloaded box in the command.
+after you download it, run the command `vagrant box add downloaded-box "name-of-your-downloaded-box"`. replace "name-of-your-downloaded-box" with the name of the downloaded box in the command.
 ### Step 6: Provision virtual machine using Vagrant
  
 From the `assignments` directory you just entered, run the command  `vagrant
